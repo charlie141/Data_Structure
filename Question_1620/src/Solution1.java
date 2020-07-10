@@ -31,7 +31,6 @@ public class Solution1 {
 		ArrayList<String> answer=new ArrayList<String>();
 		
 		
-		
 		for(int i=0; i<n; i++)
 		{
 			name=sc.nextLine();
